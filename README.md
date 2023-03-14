@@ -4,7 +4,6 @@
 # title 1
 *italic*
 **bold**
-|table|table|table|
-|*---*|*---*|*---*|
-|a|b|c|
+k_x
+\alpha
 
